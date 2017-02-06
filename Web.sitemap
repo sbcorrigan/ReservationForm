@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Site Navigation" description="Navigate the site">
+    <siteMapNode url="~/Request.aspx" title="Reservation Request Form" description="Request"/>
+    <siteMapNode url="~/Confirmation.aspx" title="Reservation Confirmation Page" description="Reservation Confirmation"/>
+    <siteMapNode url="~/AdminPage.aspx" title="Admin Page" description="Administrative Page"/>
+  </siteMapNode>
+
+</siteMap>
